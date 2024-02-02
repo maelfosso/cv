@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  5 NOV 2023 07:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  1 FEB 2024 20:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1334,7 +1334,19 @@ ng=tex-text;" at 9.0pt
 eSansPro-Semibold.otf
  [1
 
-]) (./cv/courses.tex
+]) (./cv/certificates.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 17.
+Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
+ex-text;" at 9.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
+eSansPro-Bold.otf
+) (./cv/skills.tex
+Overfull \hbox (119.68791pt too wide) in alignment at lines 10--58
+[] [] 
+ []
+
+) (./cv/courses.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 9.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
@@ -1347,23 +1359,12 @@ Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
 mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Regular.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 22.
-Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
-ex-text;" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
-eSansPro-Bold.otf
- [2]) (./cv/skills.tex
-Overfull \hbox (42.52791pt too wide) in alignment at lines 10--43
-[] [] 
- []
-
-) (./cv/certificates.tex) (./cv/presentation.tex) (./cv/writing.tex)
-(./cv/education.tex [3]) [4] (./cv.aux) ) 
+ [2]) (./cv/presentation.tex) (./cv/writing.tex [3])
+(./cv/education.tex) [4] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
  33308 strings out of 476179
  678025 string characters out of 5809544
- 1163421 words of memory out of 5000000
+ 1163422 words of memory out of 5000000
  53458 multiletter control sequences out of 15000+600000
  472151 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
